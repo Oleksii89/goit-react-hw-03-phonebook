@@ -22,7 +22,7 @@ export const Button = styled.button`
   box-sizing: border-box;
   width: 100px;
   height: 24px;
-  background: blue;
+  background: teal;
   border: none;
   cursor: pointer;
   border-radius: 4px;
